@@ -1,0 +1,16 @@
+{
+    "name": "pay_stack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "tailwind.config.js",
+    "dependencies": {
+        "tailwindcss": "^3.0.23"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "build:tailwinds": "tailwind build src/style.css -o dist/output.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
